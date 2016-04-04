@@ -26,6 +26,7 @@ This exercise provides a CSV file with some data derived from the 1996 US Census
 
 3. Make the same visualization for race instead of education group.
 4. As a bonus, if you have time, combine the two on one chart.
+5. When done, commit your work to your clone of this repository. Add any instructions we need to build your work. Email us a link to your clone.
 
 ----
 
