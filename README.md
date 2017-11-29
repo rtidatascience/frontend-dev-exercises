@@ -1,6 +1,6 @@
 ## RTI CDS Frontend Developer Exercise
 
-Welcome to the RTI Center for Data Science front-end developer exercise! This exercise is here to get you acquainted with a small sample of what we do and for us to get acquainted with your skills. It should take no more than two hours of your time.
+Welcome to the RTI Center for Data Science front-end developer exercise! This exercise is here to get you acquainted with a small sample of what we do and for us to get acquainted with your skills. It should take no more than a few hours of your time.
 
 This exercise provides a CSV file with some data derived from the 1996 US Census. You will have to use that data to present several charts.
 
@@ -13,6 +13,8 @@ This exercise provides a CSV file with some data derived from the 1996 US Census
 3. Use the Internet as a resource to help you complete your work. We do it all the time.
 4. Comment your code so that when you look back at it in a year, you'll remember what you were doing.
 5. Use the tools you are comfortable with.
+   - We like to use [React](https://reactjs.org/) and [Vue](https://vuejs.org/) on our projects.
+   - Our preferred charting library is [D3](https://d3js.org/). We also use [Charts.js](http://www.chartjs.org/).
 6. Have fun and don't overthink it!
 
 ----
