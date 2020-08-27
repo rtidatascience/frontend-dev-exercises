@@ -13,8 +13,9 @@ This exercise provides a CSV file with some data derived from the 1996 US Census
 3. Use the Internet as a resource to help you complete your work. We do it all the time.
 4. Comment your code so that when you look back at it in a year, you'll remember what you were doing.
 5. Use the tools you are comfortable with.
-   - We like to use [React](https://reactjs.org/) and [Vue](https://vuejs.org/) on our projects.
-   - Our preferred charting library is [D3](https://d3js.org/). We also use [Charts.js](http://www.chartjs.org/).
+   - We like to use [Vue](https://vuejs.org/) on our projects, but examples in [React](https://reactjs.org/), [Angular](https://angular.io/) or just plain Javascript are fine too.
+   - Charting libraries we use include [d3](https://d3js.org/), [highcharts](https://www.highcharts.com/), [amcharts](https://www.amcharts.com/) and [plotly](https://plotly.com/).
+   - Your example doesn't have to look production-ready, but keeping an eye towards responsive layouts and accessible markup are key in our work. We use CSS frameworks like [bootstrap](https://getbootstrap.com/), [bulma](https://bulma.io/), [USWDS](https://designsystem.digital.gov/) and [material](https://material.io/) to help here.
 6. Have fun and don't overthink it!
 
 ----
@@ -27,8 +28,9 @@ This exercise provides a CSV file with some data derived from the 1996 US Census
   ![example bar chart](example.png)
 
 3. Make the same visualization for race instead of education group.
-4. As a bonus, if you have time, combine the two on one chart.
-5. When done, commit your work to your clone of this repository. Add any instructions we need to build your work. Email us a link to your clone.
+4. Add a control that allows you to switch between the two visualizations.
+5. As a bonus, if you have time, add a control to limit the data by sex or age.
+6. When done, commit your work to your clone of this repository. Add any instructions we need to build your work. Email us a link to your clone.
 
 ----
 
